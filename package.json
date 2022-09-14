@@ -1,0 +1,16 @@
+{
+  "name": "monitoring",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "systeminformation": "^5.12.6"
+  }
+}
